@@ -1,4 +1,4 @@
-from python.Python_class_IA.dists import dists, straight_line_dists_from_bucharest
+from python.Python_class_IA.Exercicio_1.dists import dists, straight_line_dists_from_bucharest
 
 
 def valuation_calculation(cost, heuristic):
