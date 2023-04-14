@@ -9,6 +9,7 @@ Universidade Federal do Paraná - UFPR
 **IAA003 - Linguagem de Programação Aplicada**
 
 Prof. Alexander Robert Kutzke
+Aluno Bruno Moreira Ribas
 
 # Exercício de implementação do algoritmo Naive Bayes
 
